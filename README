@@ -1,0 +1,28 @@
+Syndicate/Channel
+=================
+
+Syndicate::Channel is a generalization of XML::RSS which represents
+a channel consisting of a set of news links.
+The generalization allows to offer also a Topic Map based channel
+definition.
+
+This modules supports the creation and conversion of syndication
+channels in these formats.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+COPYRIGHT AND LICENCE
+
+This library is free software; you can redistribute it
+and/or modify it under the same terms as Perl itself.
+http://www.perl.com/perl/misc/Artistic.html
+
+Copyright (C) 2002, Jan Gylta, Robert Barta
+
